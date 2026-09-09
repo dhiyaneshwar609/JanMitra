@@ -70,3 +70,25 @@ Semantic       Keyword
     Flask Interface
          ↓
        User
+
+---
+
+## 🖥️ JanMitra AI Interface
+
+JanMitra AI provides a conversational interface for accessing government schemes and services.
+
+### 🏠 Home Page — Light Theme
+
+![JanMitra AI Home Page - Light Theme](docs/images/home-light.png)
+
+### 🌙 Home Page — Dark Theme
+
+![JanMitra AI Home Page - Dark Theme](docs/images/home-dark.png)
+
+### 💬 Chatbot Response
+
+![JanMitra AI Chatbot Response](docs/images/chatbot-answer.png)
+
+### 🏗️ Project Architecture
+
+![JanMitra AI System Architecture](docs/images/architecture.png)
