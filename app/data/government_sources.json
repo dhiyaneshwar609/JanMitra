@@ -1,0 +1,21 @@
+{
+    "central": [
+        "https://www.india.gov.in",
+        "https://www.mygov.in",
+        "https://www.digitalindia.gov.in",
+        "https://www.nic.in"
+    ],
+
+    "states": [
+        "https://www.tn.gov.in",
+        "https://www.karnataka.gov.in",
+        "https://kerala.gov.in",
+        "https://www.ap.gov.in",
+        "https://telangana.gov.in",
+        "https://maharashtra.gov.in",
+        "https://gujaratindia.gov.in",
+        "https://www.up.gov.in",
+        "https://www.mp.gov.in",
+        "https://www.odisha.gov.in"
+    ]
+}

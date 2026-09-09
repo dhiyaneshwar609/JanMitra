@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>JanMitra AI</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="app">
+
+    <!-- ================= SIDEBAR ================= -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+
+            <div class="logo-icon">
+                🇮🇳
+            </div>
+
+            <div class="logo-text">
+                <h2>JanMitra AI</h2>
+                <span>Citizen Assistant</span>
+            </div>
+
+        </div>
+
+        <button
+            id="new-chat"
+            class="new-chat-btn">
+
+            <i class="fa-solid fa-plus"></i>
+            New Chat
+
+        </button>
+
+        <nav class="sidebar-nav">
+
+            <a id="nav-home" class="active">
+
+                <i class="fa-solid fa-house"></i>
+
+                <span>Home</span>
+
+            </a>
+
+            <a id="nav-history">
+
+                <i class="fa-solid fa-clock-rotate-left"></i>
+
+                <span>History</span>
+
+            </a>
+
+            <a id="nav-government">
+
+                <i class="fa-solid fa-landmark"></i>
+
+                <span>Government</span>
+
+            </a>
+
+            <a id="nav-education">
+
+                <i class="fa-solid fa-graduation-cap"></i>
+
+                <span>Education</span>
+
+            </a>
+
+            <a id="nav-healthcare">
+
+                <i class="fa-solid fa-heart-pulse"></i>
+
+                <span>Healthcare</span>
+
+            </a>
+
+            <a id="nav-languages">
+
+                <i class="fa-solid fa-language"></i>
+
+                <span>Languages</span>
+
+            </a>
+
+            <a id="nav-settings">
+
+                <i class="fa-solid fa-gear"></i>
+
+                <span>Settings</span>
+
+            </a>
+
+        </nav>
+
+        <div class="sidebar-footer">
+
+            <div class="version">
+
+                Version 1.0
+
+            </div>
+
+        </div>
+
+    </aside>
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="main">
+
+        <!-- HEADER -->
+
+        <header class="topbar">
+
+            <div class="topbar-left">
+
+                <h1>
+
+                    JanMitra AI
+
+                </h1>
+
+                <p>
+
+                    AI Powered Government Service Assistant
+
+                </p>
+
+            </div>
+
+            <div class="topbar-right">
+
+                <button
+                    id="header-voice-btn"
+                    class="icon-btn">
+
+                    <i class="fa-solid fa-microphone"></i>
+
+                </button>
+
+                <button
+                    id="theme-btn"
+                    class="icon-btn">
+
+                    <i class="fa-solid fa-moon"></i>
+
+                </button>
+
+            </div>
+
+        </header>
+
+        <!-- CHAT AREA -->
+
+        <section
+            id="chat-box"
+            class="chat-box">
+
+            <!-- Welcome -->
+
+            <div
+                id="welcome-card"
+                class="welcome-card">
+
+                <div class="welcome-icon">
+
+                    🤖
+
+                </div>
+
+                <h2>
+
+                    Welcome to JanMitra AI
+
+                </h2>
+
+                <p>
+
+                    Ask anything about Government Schemes,
+                    Scholarships,
+                    Farmer Services,
+                    Health,
+                    Education,
+                    Certificates,
+                    Employment,
+                    Welfare,
+                    and Citizen Services.
+
+                </p>
+
+                <div class="quick-grid">
+
+                    <button
+                        class="quick-card"
+                        onclick="quickPrompt('Show scholarships for students')">
+
+                        🎓
+
+                        <span>
+
+                            Student Scholarships
+
+                        </span>
+
+                    </button>
+
+                    <button
+                        class="quick-card"
+                        onclick="quickPrompt('PM Kisan Scheme')">
+
+                        🌾
+
+                        <span>
+
+                            PM Kisan
+
+                        </span>
+
+                    </button>
+
+                    <button
+                        class="quick-card"
+                        onclick="quickPrompt('Health insurance schemes')">
+
+                        🏥
+
+                        <span>
+
+                            Healthcare
+
+                        </span>
+
+                    </button>
+
+                    <button
+                        class="quick-card"
+                        onclick="quickPrompt('Government jobs')">
+
+                        💼
+
+                        <span>
+
+                            Employment
+
+                        </span>
+
+                    </button>
+
+                </div>
+
+            </div>
+                        <!-- Messages will be added here dynamically -->
+
+
+                <!-- ================= 12 GOVERNMENT DOMAINS ================= -->
+
+                <div class="domains-section">
+
+                    <div class="domains-header">
+                        <div>
+                            <h3><i class="fa-solid fa-landmark"></i> Explore Government Services</h3>
+                            <p>Select a department to ask JanMitra AI about related schemes and services.</p>
+                        </div>
+
+                        <button class="all-domains-btn" onclick="selectDomain('general')">
+                            <i class="fa-solid fa-layer-group"></i>
+                            All Domains
+                        </button>
+                    </div>
+
+                    <div class="domain-grid">
+
+                        <button class="domain-card" data-domain="education"
+                                onclick="selectDomain('education')">
+                            <span class="domain-icon">🎓</span>
+                            <span class="domain-name">Education</span>
+                            <span class="domain-desc">Scholarships & student services</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="health"
+                                onclick="selectDomain('health')">
+                            <span class="domain-icon">🏥</span>
+                            <span class="domain-name">Health</span>
+                            <span class="domain-desc">Healthcare & insurance schemes</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="women_child"
+                                onclick="selectDomain('women_child')">
+                            <span class="domain-icon">👩</span>
+                            <span class="domain-name">Women & Child Welfare</span>
+                            <span class="domain-desc">Women & child welfare services</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="agriculture"
+                                onclick="selectDomain('agriculture')">
+                            <span class="domain-icon">🌾</span>
+                            <span class="domain-name">Agriculture</span>
+                            <span class="domain-desc">Farmers, crops & subsidies</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="employment"
+                                onclick="selectDomain('employment')">
+                            <span class="domain-icon">💼</span>
+                            <span class="domain-name">Employment</span>
+                            <span class="domain-desc">Jobs & skill development</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="housing"
+                                onclick="selectDomain('housing')">
+                            <span class="domain-icon">🏠</span>
+                            <span class="domain-name">Housing</span>
+                            <span class="domain-desc">Housing & urban services</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="transport"
+                                onclick="selectDomain('transport')">
+                            <span class="domain-icon">🚌</span>
+                            <span class="domain-name">Transport</span>
+                            <span class="domain-desc">Transport & road services</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="legal"
+                                onclick="selectDomain('legal')">
+                            <span class="domain-icon">⚖️</span>
+                            <span class="domain-name">Legal Aid</span>
+                            <span class="domain-desc">Legal assistance & citizen rights</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="pension"
+                                onclick="selectDomain('pension')">
+                            <span class="domain-icon">👴</span>
+                            <span class="domain-name">Pension & Social Security</span>
+                            <span class="domain-desc">Pensions & social protection</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="disability"
+                                onclick="selectDomain('disability')">
+                            <span class="domain-icon">♿</span>
+                            <span class="domain-name">Disability Welfare</span>
+                            <span class="domain-desc">Support & welfare services</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="documents"
+                                onclick="selectDomain('documents')">
+                            <span class="domain-icon">🆔</span>
+                            <span class="domain-name">Certificates & Documents</span>
+                            <span class="domain-desc">Certificates & citizen documents</span>
+                        </button>
+
+                        <button class="domain-card" data-domain="general"
+                                onclick="selectDomain('general')">
+                            <span class="domain-icon">🇮🇳</span>
+                            <span class="domain-name">General Government Schemes</span>
+                            <span class="domain-desc">Browse government schemes & services</span>
+                        </button>
+
+                    </div>
+                </div>
+
+            <div id="messages-container" class="messages-container"></div>
+
+        </section>
+
+        <!-- INPUT AREA -->
+
+        <div class="chat-input-container">
+
+            <div class="chat-input-wrapper">
+
+                <button
+                    id="voice-btn"
+                    class="input-btn"
+                    title="Voice Input">
+
+                    <i class="fa-solid fa-microphone"></i>
+
+                </button>
+
+                <textarea
+                    id="user-input"
+                    rows="1"
+                    placeholder="Ask about government schemes, certificates, scholarships..."></textarea>
+
+                <button
+                    id="send-btn"
+                    class="send-btn">
+
+                    <i class="fa-solid fa-paper-plane"></i>
+
+                </button>
+
+            </div>
+
+            <div class="input-note">
+
+                Press <strong>Enter</strong> to send •
+                <strong>Shift + Enter</strong> for a new line
+
+            </div>
+
+        </div>
+
+    </main>
+
+</div>
+
+<!-- Loading Overlay -->
+
+<div
+    id="loading-overlay"
+    class="loading-overlay hidden">
+
+    <div class="loader-card">
+
+        <div class="loader"></div>
+
+        <h3>
+
+            JanMitra AI
+
+        </h3>
+
+        <p>
+
+            Thinking...
+
+        </p>
+
+    </div>
+
+</div>
+
+<!-- Scroll Button -->
+
+<button
+    id="scroll-bottom-btn"
+    class="scroll-bottom-btn">
+
+    <i class="fa-solid fa-arrow-down"></i>
+
+</button>
+
+<!-- Footer -->
+
+<footer class="footer">
+
+    <div class="footer-left">
+
+        © 2026 JanMitra AI
+
+    </div>
+
+    <div class="footer-right">
+
+        Powered by Flask • Hybrid RAG • Ollama • Qwen
+
+    </div>
+
+</footer>
+<!-- Toast Notification -->
+
+<div
+    id="toast"
+    class="toast">
+
+    <i class="fa-solid fa-circle-check"></i>
+
+    <span id="toast-text">
+
+        Success
+
+    </span>
+
+</div>
+
+<!-- Chat Templates -->
+
+<template id="user-message-template">
+
+    <div class="message user-message">
+
+        <div class="message-avatar">
+
+            <i class="fa-solid fa-user"></i>
+
+        </div>
+
+        <div class="message-content"></div>
+
+    </div>
+
+</template>
+
+<template id="bot-message-template">
+
+    <div class="message bot-message">
+
+        <div class="message-avatar">
+
+            🤖
+
+        </div>
+
+        <div class="message-content"></div>
+
+    </div>
+
+</template>
+
+<!-- Sources -->
+
+<template id="source-card-template">
+
+    <div class="source-card">
+
+        <div class="source-header">
+
+            <i class="fa-solid fa-file-lines"></i>
+
+            <span class="source-title">
+
+                Source
+
+            </span>
+
+        </div>
+
+        <div class="source-body"></div>
+
+    </div>
+
+</template>
+
+<!-- Typing Indicator -->
+
+<div
+    id="typing-indicator"
+    class="typing-indicator hidden">
+
+    <div class="typing-avatar">
+
+        🤖
+
+    </div>
+
+    <div class="typing-dots">
+
+        <span></span>
+
+        <span></span>
+
+        <span></span>
+
+    </div>
+
+</div>
+
+<!-- Settings Modal -->
+
+<div
+    id="settings-modal"
+    class="modal hidden">
+
+    <div class="modal-content">
+
+        <div class="modal-header">
+
+            <h2>
+
+                Settings
+
+            </h2>
+
+            <button
+                class="close-modal">
+
+                <i class="fa-solid fa-xmark"></i>
+
+            </button>
+
+        </div>
+
+        <div class="modal-body">
+
+            <div class="setting-item">
+
+                <label>
+
+                    Theme
+
+                </label>
+
+                <button
+                    id="theme-toggle-modal"
+                    class="setting-btn">
+
+                    Toggle Theme
+
+                </button>
+
+            </div>
+
+            <div class="setting-item">
+
+                <label>
+
+                    Voice Input
+
+                </label>
+
+                <button
+                    id="voice-toggle"
+                    class="setting-btn">
+
+                    Enable
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

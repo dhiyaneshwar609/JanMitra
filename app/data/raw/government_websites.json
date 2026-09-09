@@ -1,0 +1,115 @@
+{
+  "Central_Government": {
+    "Agriculture": [
+      {
+        "name": "PM-Kisan",
+        "url": "https://pmkisan.gov.in"
+      },
+      {
+        "name": "eNAM",
+        "url": "https://www.enam.gov.in"
+      }
+    ],
+    "Identity": [
+      {
+        "name": "UIDAI",
+        "url": "https://uidai.gov.in"
+      },
+      {
+        "name": "DigiLocker",
+        "url": "https://www.digilocker.gov.in"
+      }
+    ],
+    "Employment": [
+      {
+        "name": "EPFO",
+        "url": "https://www.epfindia.gov.in"
+      },
+      {
+        "name": "eShram",
+        "url": "https://eshram.gov.in"
+      }
+    ],
+    "Education": [
+      {
+        "name": "National Scholarship Portal",
+        "url": "https://scholarships.gov.in"
+      }
+    ],
+    "Citizen_Portal": [
+      {
+        "name": "National Portal of India",
+        "url": "https://www.india.gov.in"
+      },
+      {
+        "name": "UMANG",
+        "url": "https://web.umang.gov.in"
+      }
+    ]
+  },
+  "States": {
+    "Tamil Nadu": {
+      "portal": "https://www.tn.gov.in",
+      "departments": [
+        {
+          "name": "e-Sevai",
+          "url": "https://www.tnesevai.tn.gov.in"
+        }
+      ]
+    },
+    "Karnataka": {
+      "portal": "https://www.karnataka.gov.in",
+      "departments": []
+    },
+    "Kerala": {
+      "portal": "https://kerala.gov.in",
+      "departments": []
+    },
+    "Andhra Pradesh": {
+      "portal": "https://ap.gov.in",
+      "departments": []
+    },
+    "Telangana": {
+      "portal": "https://telangana.gov.in",
+      "departments": []
+    },
+    "Maharashtra": {
+      "portal": "https://www.maharashtra.gov.in",
+      "departments": []
+    },
+    "Gujarat": {
+      "portal": "https://gujaratindia.gov.in",
+      "departments": []
+    },
+    "Rajasthan": {
+      "portal": "https://rajasthan.gov.in",
+      "departments": []
+    },
+    "Uttar Pradesh": {
+      "portal": "https://up.gov.in",
+      "departments": []
+    },
+    "Haryana": {
+      "portal": "https://haryana.gov.in",
+      "departments": []
+    }
+  },
+  "Union_Territories": {
+    "Delhi": {
+      "portal": "https://delhi.gov.in",
+      "departments": []
+    },
+    "Puducherry": {
+      "portal": "https://py.gov.in",
+      "departments": []
+    },
+    "Jammu and Kashmir": {
+      "portal": "https://jk.gov.in",
+      "departments": []
+    },
+    "Ladakh": {
+      "portal": "https://ladakh.gov.in",
+      "departments": []
+    }
+  }
+}

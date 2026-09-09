@@ -1,0 +1,1931 @@
+{
+  "Central_Government": {
+    "General": [
+      "https://www.india.gov.in",
+      "https://services.india.gov.in",
+      "https://www.mygov.in",
+      "https://www.digitalindia.gov.in",
+      "https://www.nic.in",
+      "https://www.meity.gov.in",
+      "https://www.pib.gov.in",
+      "https://www.cabsec.gov.in",
+      "https://www.pmindia.gov.in",
+      "https://www.presidentofindia.nic.in"
+    ],
+    "Government_Schemes": [
+      "https://www.myscheme.gov.in",
+      "https://pmkisan.gov.in",
+      "https://pmaymis.gov.in",
+      "https://pmayg.nic.in",
+      "https://eshram.gov.in",
+      "https://pmvishwakarma.gov.in",
+      "https://www.jansamarth.in",
+      "https://standupmitra.in",
+      "https://www.mudra.org.in",
+      "https://www.pmsvanidhi.mohua.gov.in",
+      "https://www.pmjdy.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriwelfare.gov.in",
+      "https://icar.org.in",
+      "https://pmfby.gov.in",
+      "https://mkisan.gov.in",
+      "https://soilhealth.dac.gov.in",
+      "https://enam.gov.in",
+      "https://nfsm.gov.in",
+      "https://farmer.gov.in",
+      "https://seednet.gov.in"
+    ],
+    "Healthcare": [
+      "https://www.mohfw.gov.in",
+      "https://abdm.gov.in",
+      "https://nhm.gov.in",
+      "https://nha.gov.in",
+      "https://pmjay.gov.in",
+      "https://esanjeevani.mohfw.gov.in",
+      "https://www.nhp.gov.in",
+      "https://www.aiims.edu",
+      "https://www.icmr.gov.in"
+    ],
+    "Education": [
+      "https://www.education.gov.in",
+      "https://www.ugc.gov.in",
+      "https://www.aicte-india.org",
+      "https://www.swayam.gov.in",
+      "https://diksha.gov.in",
+      "https://scholarships.gov.in",
+      "https://www.ncert.nic.in",
+      "https://nad.gov.in",
+      "https://www.nta.ac.in"
+    ],
+    "Employment": [
+      "https://labour.gov.in",
+      "https://www.ncs.gov.in",
+      "https://apprenticeshipindia.gov.in",
+      "https://esic.gov.in",
+      "https://epfindia.gov.in",
+      "https://shramsuvidha.gov.in",
+      "https://labour.gov.in/e-shram"
+    ],
+    "Identity": [
+      "https://uidai.gov.in",
+      "https://www.passportindia.gov.in",
+      "https://voters.eci.gov.in",
+      "https://www.digilocker.gov.in",
+      "https://www.eci.gov.in"
+    ],
+    "Transport": [
+      "https://parivahan.gov.in",
+      "https://sarathi.parivahan.gov.in",
+      "https://vahan.parivahan.gov.in",
+      "https://morth.nic.in",
+      "https://cris.org.in"
+    ],
+    "Women_Child_Development": [
+      "https://wcd.gov.in",
+      "https://poshanabhiyaan.gov.in",
+      "https://missionshakti.wcd.gov.in"
+    ],
+    "Skill_Development": [
+      "https://www.msde.gov.in",
+      "https://www.skillindia.gov.in",
+      "https://www.nsdcindia.org"
+    ],
+    "Social_Justice": [
+      "https://socialjustice.gov.in",
+      "https://disabilityaffairs.gov.in",
+      "https://www.ncbc.nic.in"
+    ],
+    "Minority_Affairs": [
+      "https://minorityaffairs.gov.in",
+      "https://www.maef.nic.in"
+    ],
+    "Tribal_Affairs": [
+      "https://tribal.nic.in",
+      "https://tribal.gov.in"
+    ],
+    "Legal_Services": [
+      "https://legalaid.gov.in",
+      "https://nalsa.gov.in",
+      "https://doj.gov.in",
+      "https://www.indiacode.nic.in"
+    ],
+    "Food_Public_Distribution": [
+      "https://dfpd.gov.in",
+      "https://nfsa.gov.in",
+      "https://fci.gov.in"
+    ],
+    "Citizen_Services": [
+      "https://web.umang.gov.in",
+      "https://services.india.gov.in",
+      "https://www.india.gov.in",
+      "https://www.digilocker.gov.in"
+    ]
+  },
+  "States": {
+    "Andhra_Pradesh": {
+      "General": [
+        "https://ap.gov.in",
+        "https://gsws.ap.gov.in",
+        "https://gramawardsachivalayam.ap.gov.in",
+        "https://spandana.ap.gov.in"
+      ],
+      "Schemes": [
+        "https://gsws.ap.gov.in",
+        "https://spandana.ap.gov.in"
+      ],
+      "Agriculture": [
+        "https://agri.ap.gov.in",
+        "https://apagrisnet.gov.in"
+      ],
+      "Healthcare": [
+        "https://hmfw.ap.gov.in",
+        "https://dme.ap.nic.in"
+      ],
+      "Education": [
+        "https://cse.ap.gov.in",
+        "https://bie.ap.gov.in",
+        "https://apsbtet.ap.gov.in"
+      ],
+      "Employment": [
+        "https://employment.ap.gov.in",
+        "https://skillingap.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://meebhoomi.ap.gov.in"
+      ],
+      "Transport": [
+        "https://transport.ap.gov.in"
+      ],
+      "Women_Child": [
+        "https://wdcw.ap.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.ap.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://epdsap.ap.gov.in"
+      ],
+      "eGovernance": [
+        "https://gsws.ap.gov.in",
+        "https://ap.gov.in"
+      ]
+    }
+  },
+  "Arunachal_Pradesh": {
+    "General": [
+      "https://arunachalpradesh.gov.in",
+      "https://serviceonline.gov.in/arunachal",
+      "https://arunachalipr.gov.in"
+    ],
+    "Schemes": [
+      "https://serviceonline.gov.in/arunachal"
+    ],
+    "Agriculture": [
+      "https://agri.arunachal.gov.in",
+      "https://horticulture.arunachal.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.arunachal.gov.in",
+      "https://nrhmarunachal.gov.in"
+    ],
+    "Education": [
+      "https://education.arunachal.gov.in",
+      "https://highereducation.arunachal.gov.in"
+    ],
+    "Employment": [
+      "https://employment.arunachal.gov.in",
+      "https://skillarunachal.nic.in"
+    ],
+    "Revenue_Land": [
+      "https://landrevenue.arunachal.gov.in"
+    ],
+    "Transport": [
+      "https://transport.arunachal.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.arunachal.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialjustice.arunachal.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://food.arunachal.gov.in"
+    ],
+    "eGovernance": [
+      "https://serviceonline.gov.in/arunachal",
+      "https://arunachalpradesh.gov.in"
+    ]
+  },
+  "Assam": {
+    "General": [
+      "https://assam.gov.in",
+      "https://sebaonline.org",
+      "https://assam.nic.in",
+      "https://cm.assam.gov.in"
+    ],
+    "Schemes": [
+      "https://assam.gov.in",
+      "https://sebaonline.org"
+    ],
+    "Agriculture": [
+      "https://agri-horti.assam.gov.in",
+      "https://soilconservation.assam.gov.in"
+    ],
+    "Healthcare": [
+      "https://directorateofhealthservices.assam.gov.in",
+      "https://nhm.assam.gov.in"
+    ],
+    "Education": [
+      "https://education.assam.gov.in",
+      "https://sebaonline.org",
+      "https://ahsec.assam.gov.in"
+    ],
+    "Employment": [
+      "https://skillmission.assam.gov.in",
+      "https://employment.assam.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://revenueassam.nic.in"
+    ],
+    "Transport": [
+      "https://transport.assam.gov.in"
+    ],
+    "Women_Child": [
+      "https://womenandchildren.assam.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.assam.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcsca.assam.gov.in"
+    ],
+    "eGovernance": [
+      "https://assam.gov.in",
+      "https://sebaonline.org"
+    ]
+  },
+  "Bihar": {
+    "General": [
+      "https://state.bihar.gov.in",
+      "https://serviceonline.bihar.gov.in",
+      "https://bihar.gov.in",
+      "https://cm.bihar.gov.in"
+    ],
+    "Schemes": [
+      "https://serviceonline.bihar.gov.in",
+      "https://dbtagriculture.bihar.gov.in"
+    ],
+    "Agriculture": [
+      "https://dbtagriculture.bihar.gov.in",
+      "https://krishi.bihar.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.bihar.gov.in",
+      "https://statehealthsocietybihar.org"
+    ],
+    "Education": [
+      "https://education.bihar.gov.in",
+      "https://biharboardonline.bihar.gov.in",
+      "https://bceceboard.bihar.gov.in"
+    ],
+    "Employment": [
+      "https://skillmissionbihar.org",
+      "https://labour.bihar.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://biharbhumi.bihar.gov.in",
+      "https://parimarjan.bihar.gov.in"
+    ],
+    "Transport": [
+      "https://transport.bihar.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcdc.bihar.gov.in",
+      "https://icdsbih.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.bihar.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://epds.bihar.gov.in",
+      "https://sfc.bihar.gov.in"
+    ],
+    "eGovernance": [
+      "https://serviceonline.bihar.gov.in",
+      "https://bihar.gov.in"
+    ]
+  },
+  "Chhattisgarh": {
+    "General": [
+      "https://cgstate.gov.in",
+      "https://edistrict.cgstate.gov.in",
+      "https://chhattisgarh.gov.in",
+      "https://cg.nic.in"
+    ],
+    "Schemes": [
+      "https://edistrict.cgstate.gov.in",
+      "https://cgstate.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriportal.cg.nic.in",
+      "https://agriculture.cg.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.cg.gov.in",
+      "https://cghealth.nic.in",
+      "https://nhmcg.gov.in"
+    ],
+    "Education": [
+      "https://eduportal.cg.nic.in",
+      "https://education.cg.gov.in",
+      "https://cgbse.nic.in"
+    ],
+    "Employment": [
+      "https://skill.cg.gov.in",
+      "https://employment.gov.in/cg"
+    ],
+    "Revenue_Land": [
+      "https://bhuiyan.cg.nic.in",
+      "https://bhuinaksha.cg.nic.in"
+    ],
+    "Transport": [
+      "https://transport.cg.gov.in"
+    ],
+    "Women_Child": [
+      "https://womenchild.cg.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.cg.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://khadya.cg.nic.in"
+    ],
+    "eGovernance": [
+      "https://edistrict.cgstate.gov.in",
+      "https://cgstate.gov.in"
+    ]
+  },
+  "Goa": {
+    "General": [
+      "https://goa.gov.in",
+      "https://goaservices.gov.in",
+      "https://goaonline.gov.in",
+      "https://goa.nic.in"
+    ],
+    "Schemes": [
+      "https://goaservices.gov.in",
+      "https://goaonline.gov.in"
+    ],
+    "Agriculture": [
+      "https://www.agri.goa.gov.in",
+      "https://horticulture.goa.gov.in"
+    ],
+    "Healthcare": [
+      "https://www.dhsgoa.gov.in",
+      "https://health.goa.gov.in",
+      "https://nhm.goa.gov.in"
+    ],
+    "Education": [
+      "https://education.goa.gov.in",
+      "https://gbshse.in",
+      "https://scert.goa.gov.in"
+    ],
+    "Employment": [
+      "https://goaemployment.gov.in",
+      "https://skillmission.goa.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://dslr.goa.gov.in",
+      "https://egov.goa.nic.in"
+    ],
+    "Transport": [
+      "https://goatransport.gov.in"
+    ],
+    "Women_Child": [
+      "https://dwcd.goa.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.goa.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://goacivilsupplies.gov.in"
+    ],
+    "eGovernance": [
+      "https://goaservices.gov.in",
+      "https://goaonline.gov.in"
+    ]
+  },
+  "Gujarat": {
+    "General": [
+      "https://gujaratindia.gov.in",
+      "https://www.digitalgujarat.gov.in",
+      "https://gujarat.gov.in",
+      "https://gujaratindia.com"
+    ],
+    "Schemes": [
+      "https://www.digitalgujarat.gov.in",
+      "https://ikhedut.gujarat.gov.in"
+    ],
+    "Agriculture": [
+      "https://ikhedut.gujarat.gov.in",
+      "https://agri.gujarat.gov.in"
+    ],
+    "Healthcare": [
+      "https://gujhealth.gujarat.gov.in",
+      "https://arogyasathi.gujarat.gov.in",
+      "https://nhm.gujarat.gov.in"
+    ],
+    "Education": [
+      "https://www.gseb.org",
+      "https://gujarateducation.gov.in",
+      "https://gujaratuniversity.ac.in"
+    ],
+    "Employment": [
+      "https://employment.gujarat.gov.in",
+      "https://kaushalya.gujarat.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://anyror.gujarat.gov.in",
+      "https://eolakh.gujarat.gov.in"
+    ],
+    "Transport": [
+      "https://cot.gujarat.gov.in",
+      "https://gsrtc.in"
+    ],
+    "Women_Child": [
+      "https://wcd.gujarat.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sje.gujarat.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://ipds.gujarat.gov.in",
+      "https://fcs.gujarat.gov.in"
+    ],
+    "eGovernance": [
+      "https://www.digitalgujarat.gov.in",
+      "https://gujaratindia.gov.in"
+    ]
+  },
+  "Haryana": {
+    "General": [
+      "https://haryana.gov.in",
+      "https://saralharyana.gov.in",
+      "https://cmharyana.gov.in",
+      "https://haryana.nic.in"
+    ],
+    "Schemes": [
+      "https://saralharyana.gov.in",
+      "https://fasal.haryana.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriharyana.gov.in",
+      "https://fasal.haryana.gov.in"
+    ],
+    "Healthcare": [
+      "https://healthharyana.gov.in",
+      "https://nhmharyana.gov.in",
+      "https://haryanahealth.nic.in"
+    ],
+    "Education": [
+      "https://schooleducationharyana.gov.in",
+      "https://bseh.org.in",
+      "https://highereduhry.ac.in"
+    ],
+    "Employment": [
+      "https://hrex.gov.in",
+      "https://hsdm.org.in"
+    ],
+    "Revenue_Land": [
+      "https://jamabandi.nic.in",
+      "https://ulbharyana.gov.in"
+    ],
+    "Transport": [
+      "https://hartrans.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcdhry.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialjusticehry.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://haryanafood.gov.in",
+      "https://epds.haryanafood.gov.in"
+    ],
+    "eGovernance": [
+      "https://saralharyana.gov.in",
+      "https://haryana.gov.in"
+    ]
+  },
+  "Himachal_Pradesh": {
+    "General": [
+      "https://himachal.nic.in",
+      "https://eservices.hp.gov.in",
+      "https://himachalservices.nic.in",
+      "https://hp.gov.in"
+    ],
+    "Schemes": [
+      "https://eservices.hp.gov.in",
+      "https://himachalservices.nic.in"
+    ],
+    "Agriculture": [
+      "https://hpagriculture.com",
+      "https://agriculture.hp.gov.in"
+    ],
+    "Healthcare": [
+      "https://nrhmhp.gov.in",
+      "https://health.hp.gov.in",
+      "https://himachal.nic.in/health"
+    ],
+    "Education": [
+      "https://education.hp.gov.in",
+      "https://hpbose.org",
+      "https://hpuniv.ac.in"
+    ],
+    "Employment": [
+      "https://eemis.hp.nic.in",
+      "https://hpskilldevelopment.org"
+    ],
+    "Revenue_Land": [
+      "https://himbhoomilmk.nic.in",
+      "https://lrc.hp.nic.in"
+    ],
+    "Transport": [
+      "https://himachal.nic.in/transport",
+      "https://online.hrtc.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.hp.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialjustice.hp.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://epds.co.in",
+      "https://food.hp.gov.in"
+    ],
+    "eGovernance": [
+      "https://eservices.hp.gov.in",
+      "https://himachal.nic.in"
+    ]
+  },
+  "Jharkhand": {
+    "General": [
+      "https://jharkhand.gov.in",
+      "https://jharsewa.jharkhand.gov.in",
+      "https://jharkhand.nic.in",
+      "https://cm.jharkhand.gov.in"
+    ],
+    "Schemes": [
+      "https://jharsewa.jharkhand.gov.in",
+      "https://aahar.jharkhand.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriculture.jharkhand.gov.in",
+      "https://seed.jharkhand.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.jharkhand.gov.in",
+      "https://jrhms.jharkhand.gov.in"
+    ],
+    "Education": [
+      "https://schooleducation.jharkhand.gov.in",
+      "https://jac.jharkhand.gov.in",
+      "https://highereducation.jharkhand.gov.in"
+    ],
+    "Employment": [
+      "https://employment.jharkhand.gov.in",
+      "https://jsdm.jharkhand.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://jharbhoomi.jharkhand.gov.in",
+      "https://jharbhunaksha.jharkhand.gov.in"
+    ],
+    "Transport": [
+      "https://transport.jharkhand.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.jharkhand.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.jharkhand.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://aahar.jharkhand.gov.in",
+      "https://fca.jharkhand.gov.in"
+    ],
+    "eGovernance": [
+      "https://jharsewa.jharkhand.gov.in",
+      "https://jharkhand.gov.in"
+    ]
+  },
+  "Karnataka": {
+    "General": [
+      "https://karnataka.gov.in",
+      "https://sevasindhu.karnataka.gov.in",
+      "https://karunadu.karnataka.gov.in",
+      "https://karnataka.nic.in"
+    ],
+    "Schemes": [
+      "https://sevasindhu.karnataka.gov.in",
+      "https://fruits.karnataka.gov.in"
+    ],
+    "Agriculture": [
+      "https://raitamitra.karnataka.gov.in",
+      "https://krishi.karnataka.gov.in",
+      "https://fruits.karnataka.gov.in"
+    ],
+    "Healthcare": [
+      "https://karunadu.karnataka.gov.in/hfw",
+      "https://arogya.karnataka.gov.in",
+      "https://nhm.karnataka.gov.in"
+    ],
+    "Education": [
+      "https://schooleducation.karnataka.gov.in",
+      "https://pue.karnataka.gov.in",
+      "https://cetonline.karnataka.gov.in"
+    ],
+    "Employment": [
+      "https://kaushalkar.com",
+      "https://employmentservices.karnataka.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://landrecords.karnataka.gov.in",
+      "https://www.bhoomi.karnataka.gov.in",
+      "https://kaveri.karnataka.gov.in"
+    ],
+    "Transport": [
+      "https://transport.karnataka.gov.in",
+      "https://ksrtc.karnataka.gov.in"
+    ],
+    "Women_Child": [
+      "https://dwcd.karnataka.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sw.karnataka.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://ahara.karnataka.gov.in"
+    ],
+    "eGovernance": [
+      "https://sevasindhu.karnataka.gov.in",
+      "https://karnataka.gov.in"
+    ]
+  },
+  "Kerala": {
+    "General": [
+      "https://kerala.gov.in",
+      "https://edistrict.kerala.gov.in",
+      "https://services.kerala.gov.in",
+      "https://kerala.nic.in"
+    ],
+    "Schemes": [
+      "https://edistrict.kerala.gov.in",
+      "https://services.kerala.gov.in"
+    ],
+    "Agriculture": [
+      "https://keralaagriculture.gov.in",
+      "https://www.aim.kerala.gov.in"
+    ],
+    "Healthcare": [
+      "https://dhs.kerala.gov.in",
+      "https://health.kerala.gov.in",
+      "https://ardrammission.kerala.gov.in"
+    ],
+    "Education": [
+      "https://education.kerala.gov.in",
+      "https://scert.kerala.gov.in",
+      "https://pareekshabhavan.kerala.gov.in"
+    ],
+    "Employment": [
+      "https://employment.kerala.gov.in",
+      "https://knowledgemission.kerala.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://revenue.kerala.gov.in",
+      "https://erekha.kerala.gov.in"
+    ],
+    "Transport": [
+      "https://mvd.kerala.gov.in",
+      "https://www.keralartc.com"
+    ],
+    "Women_Child": [
+      "https://wcd.kerala.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sjd.kerala.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://civilsupplieskerala.gov.in",
+      "https://epos.kerala.gov.in"
+    ],
+    "eGovernance": [
+      "https://edistrict.kerala.gov.in",
+      "https://services.kerala.gov.in"
+    ]
+  },
+  "Madhya_Pradesh": {
+    "General": [
+      "https://mp.gov.in",
+      "https://www.mpinfo.org"
+    ],
+    "Schemes": [
+      "https://mp.gov.in/en/web/guest/schemes",
+      "https://www.samagra.gov.in"
+    ],
+    "Agriculture": [
+      "https://mpkrishi.mp.gov.in",
+      "https://farmer.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.mp.gov.in",
+      "https://www.nhmmp.gov.in"
+    ],
+    "Education": [
+      "https://educationportal.mp.gov.in",
+      "https://highereducation.mp.gov.in"
+    ],
+    "Employment": [
+      "https://mprojgar.gov.in",
+      "https://labour.mp.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://landrecords.mp.gov.in",
+      "https://mpbhulekh.gov.in"
+    ],
+    "Transport": [
+      "https://transport.mp.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://mpwcdmis.gov.in",
+      "https://wcd.mp.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialjustice.mp.gov.in",
+      "https://sjsa.mp.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://food.mp.gov.in",
+      "https://rationmitra.nic.in"
+    ],
+    "eGovernance": [
+      "https://www.mponline.gov.in",
+      "https://services.mp.gov.in"
+    ]
+  },
+  "Maharashtra": {
+    "General": [
+      "https://www.maharashtra.gov.in",
+      "https://www.mahaonline.gov.in"
+    ],
+    "Schemes": [
+      "https://www.maharashtra.gov.in",
+      "https://aaplesarkar.mahaonline.gov.in"
+    ],
+    "Agriculture": [
+      "https://krishi.maharashtra.gov.in",
+      "https://mahaagri.gov.in"
+    ],
+    "Healthcare": [
+      "https://arogya.maharashtra.gov.in",
+      "https://nrhm.maharashtra.gov.in"
+    ],
+    "Education": [
+      "https://education.maharashtra.gov.in",
+      "https://mahadbt.maharashtra.gov.in"
+    ],
+    "Employment": [
+      "https://rojgar.mahaswayam.gov.in",
+      "https://mahaswayam.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://bhulekh.mahabhumi.gov.in",
+      "https://mahabhumi.gov.in"
+    ],
+    "Transport": [
+      "https://transport.maharashtra.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://womenchild.maharashtra.gov.in",
+      "https://icds.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sjsa.maharashtra.gov.in",
+      "https://mahadbt.maharashtra.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://mahafood.gov.in",
+      "https://rcms.mahafood.gov.in"
+    ],
+    "eGovernance": [
+      "https://aaplesarkar.mahaonline.gov.in",
+      "https://www.mahaonline.gov.in"
+    ]
+  },
+  "Manipur": {
+    "General": [
+      "https://manipur.gov.in",
+      "https://manipur.nic.in"
+    ],
+    "Schemes": [
+      "https://manipur.gov.in/?page_id=2256",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agrimanipur.gov.in",
+      "https://horticulturemanipur.mn.gov.in"
+    ],
+    "Healthcare": [
+      "https://manipurhealthdirectorate.mn.gov.in",
+      "https://nrhmmanipur.org"
+    ],
+    "Education": [
+      "https://educationmanipur.gov.in",
+      "https://manipureducation.gov.in"
+    ],
+    "Employment": [
+      "https://employmentmanipur.gov.in",
+      "https://labourmanipur.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://louchapathap.nic.in",
+      "https://revenue.mn.gov.in"
+    ],
+    "Transport": [
+      "https://transportmanipur.mn.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://socialwelfaremanipur.gov.in",
+      "https://icdsmanipur.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfaremanipur.gov.in",
+      "https://manipur.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcamanipur.gov.in",
+      "https://epdsmanipur.nic.in"
+    ],
+    "eGovernance": [
+      "https://eservicesmanipur.gov.in",
+      "https://manipur.gov.in"
+    ]
+  },
+  "Meghalaya": {
+    "General": [
+      "https://meghalaya.gov.in",
+      "https://meghalaya.nic.in"
+    ],
+    "Schemes": [
+      "https://meghalaya.gov.in/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://megagriculture.gov.in",
+      "https://horticulture.meghalaya.gov.in"
+    ],
+    "Healthcare": [
+      "https://meghealth.gov.in",
+      "https://nhmmeghalaya.nic.in"
+    ],
+    "Education": [
+      "https://megeducation.gov.in",
+      "https://meghalaya.gov.in/dept/education"
+    ],
+    "Employment": [
+      "https://employment.meghalaya.gov.in",
+      "https://labour.meghalaya.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://megrevenue.gov.in",
+      "https://meghalaya.gov.in/dept/revenue"
+    ],
+    "Transport": [
+      "https://megtransport.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://megsocialwelfare.gov.in",
+      "https://meghalaya.gov.in/dept/social-welfare"
+    ],
+    "Social_Welfare": [
+      "https://megsocialwelfare.gov.in",
+      "https://meghalaya.gov.in/dept/social-welfare"
+    ],
+    "Food_Civil_Supplies": [
+      "https://megfcs.gov.in",
+      "https://epds.meghalaya.gov.in"
+    ],
+    "eGovernance": [
+      "https://megegov.gov.in",
+      "https://meghalaya.gov.in"
+    ]
+  },
+  "Mizoram": {
+    "General": [
+      "https://mizoram.gov.in",
+      "https://mizoram.nic.in"
+    ],
+    "Schemes": [
+      "https://mizoram.gov.in/page/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriculture.mizoram.gov.in",
+      "https://horticulture.mizoram.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.mizoram.gov.in",
+      "https://nhmmizoram.org"
+    ],
+    "Education": [
+      "https://schooleducation.mizoram.gov.in",
+      "https://highereducation.mizoram.gov.in"
+    ],
+    "Employment": [
+      "https://labour.mizoram.gov.in",
+      "https://employment.mizoram.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://landrevenue.mizoram.gov.in",
+      "https://revenue.mizoram.gov.in"
+    ],
+    "Transport": [
+      "https://transport.mizoram.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://socialwelfare.mizoram.gov.in",
+      "https://icds.mizoram.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.mizoram.gov.in",
+      "https://mizoram.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcs.mizoram.gov.in",
+      "https://epds.mizoram.gov.in"
+    ],
+    "eGovernance": [
+      "https://eoffice.mizoram.gov.in",
+      "https://mizoram.gov.in"
+    ]
+  },
+  "Nagaland": {
+    "General": [
+      "https://nagaland.gov.in",
+      "https://nagaland.nic.in"
+    ],
+    "Schemes": [
+      "https://nagaland.gov.in/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriculture.nagaland.gov.in",
+      "https://horticulture.nagaland.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.nagaland.gov.in",
+      "https://nhmnagaland.in"
+    ],
+    "Education": [
+      "https://education.nagaland.gov.in",
+      "https://schooleducation.nagaland.gov.in"
+    ],
+    "Employment": [
+      "https://employment.nagaland.gov.in",
+      "https://labour.nagaland.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://landrevenue.nagaland.gov.in",
+      "https://revenue.nagaland.gov.in"
+    ],
+    "Transport": [
+      "https://transport.nagaland.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://socialwelfare.nagaland.gov.in",
+      "https://womenandchild.nagaland.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.nagaland.gov.in",
+      "https://nagaland.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcsnagaland.gov.in",
+      "https://epds.nagaland.gov.in"
+    ],
+    "eGovernance": [
+      "https://nagaland.gov.in",
+      "https://edistrict.nagaland.gov.in"
+    ]
+  },
+  "Odisha": {
+    "General": [
+      "https://odisha.gov.in",
+      "https://odisha.nic.in"
+    ],
+    "Schemes": [
+      "https://odisha.gov.in/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agri.odisha.gov.in",
+      "https://farmers.odisha.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.odisha.gov.in",
+      "https://nhmodisha.gov.in"
+    ],
+    "Education": [
+      "https://school.sme.odisha.gov.in",
+      "https://highereducation.odisha.gov.in"
+    ],
+    "Employment": [
+      "https://empmission.odisha.gov.in",
+      "https://labour.odisha.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://bhulekh.ori.nic.in",
+      "https://revenue.odisha.gov.in"
+    ],
+    "Transport": [
+      "https://transport.odisha.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.odisha.gov.in",
+      "https://missionshakti.odisha.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://ssepd.odisha.gov.in",
+      "https://odisha.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://foododisha.in",
+      "https://pdsodisha.gov.in"
+    ],
+    "eGovernance": [
+      "https://edistrict.odisha.gov.in",
+      "https://odishaone.gov.in"
+    ]
+  },
+  "Punjab": {
+    "General": [
+      "https://punjab.gov.in",
+      "https://pb.gov.in"
+    ],
+    "Schemes": [
+      "https://punjab.gov.in/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agripb.gov.in",
+      "https://agrimachinerypb.com"
+    ],
+    "Healthcare": [
+      "https://health.punjab.gov.in",
+      "https://nhm.punjab.gov.in"
+    ],
+    "Education": [
+      "https://schooleducation.punjab.gov.in",
+      "https://highereducation.punjab.gov.in"
+    ],
+    "Employment": [
+      "https://pgrkam.com",
+      "https://labour.punjab.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://jamabandi.punjab.gov.in",
+      "https://revenue.punjab.gov.in"
+    ],
+    "Transport": [
+      "https://transport.punjab.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://sswcd.punjab.gov.in",
+      "https://icds.punjab.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sswcd.punjab.gov.in",
+      "https://punjab.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://foodsuppb.gov.in",
+      "https://epos.punjab.gov.in"
+    ],
+    "eGovernance": [
+      "https://connect.punjab.gov.in",
+      "https://esewa.punjab.gov.in"
+    ]
+  },
+  "Rajasthan": {
+    "General": [
+      "https://rajasthan.gov.in",
+      "https://rajasthan.nic.in"
+    ],
+    "Schemes": [
+      "https://janapp.rajasthan.gov.in",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriculture.rajasthan.gov.in",
+      "https://rajkisan.rajasthan.gov.in"
+    ],
+    "Healthcare": [
+      "https://medicaleducation.rajasthan.gov.in",
+      "https://nrhmrajasthan.nic.in"
+    ],
+    "Education": [
+      "https://education.rajasthan.gov.in",
+      "https://rajshaladarpan.nic.in"
+    ],
+    "Employment": [
+      "https://employment.livelihoods.rajasthan.gov.in",
+      "https://labour.rajasthan.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://apnakhata.rajasthan.gov.in",
+      "https://revenue.rajasthan.gov.in"
+    ],
+    "Transport": [
+      "https://transport.rajasthan.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.rajasthan.gov.in",
+      "https://icds-wcd.rajasthan.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://sje.rajasthan.gov.in",
+      "https://ssp.rajasthan.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://food.rajasthan.gov.in",
+      "https://food.raj.nic.in"
+    ],
+    "eGovernance": [
+      "https://sso.rajasthan.gov.in",
+      "https://emitra.rajasthan.gov.in"
+    ]
+  },
+  "Sikkim": {
+    "General": [
+      "https://sikkim.gov.in",
+      "https://sikkim.nic.in"
+    ],
+    "Schemes": [
+      "https://sikkim.gov.in",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agri.sikkim.gov.in",
+      "https://horticulture.sikkim.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.sikkim.gov.in",
+      "https://nhmsikkim.org"
+    ],
+    "Education": [
+      "https://education.sikkim.gov.in",
+      "https://sikkimhrdd.org"
+    ],
+    "Employment": [
+      "https://employment.sikkim.gov.in",
+      "https://labour.sikkim.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://lrmp.sikkim.gov.in",
+      "https://landrevenue.sikkim.gov.in"
+    ],
+    "Transport": [
+      "https://transport.sikkim.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://socialjustice.sikkim.gov.in",
+      "https://icds.sikkim.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialjustice.sikkim.gov.in",
+      "https://sikkim.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://sfcs.sikkim.gov.in",
+      "https://epds.sikkim.gov.in"
+    ],
+    "eGovernance": [
+      "https://eservices.sikkim.gov.in",
+      "https://sikkim.gov.in"
+    ]
+  },
+  "Tamil_Nadu": {
+    "General": [
+      "https://www.tn.gov.in",
+      "https://www.tn.gov.in/services"
+    ],
+    "Schemes": [
+      "https://www.tn.gov.in/scheme",
+      "https://www.tnesevai.tn.gov.in"
+    ],
+    "Agriculture": [
+      "https://www.tnagrisnet.tn.gov.in",
+      "https://agritech.tnau.ac.in"
+    ],
+    "Healthcare": [
+      "https://www.tnhealth.tn.gov.in",
+      "https://nhm.tn.gov.in"
+    ],
+    "Education": [
+      "https://www.tnschools.gov.in",
+      "https://www.dge.tn.gov.in"
+    ],
+    "Employment": [
+      "https://www.tnskill.tn.gov.in",
+      "https://employment.tn.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://eservices.tn.gov.in",
+      "https://www.tn.gov.in/revenue"
+    ],
+    "Transport": [
+      "https://transport.tn.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wcd.tn.gov.in",
+      "https://www.icds.tn.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://www.tnsocialwelfare.tn.gov.in",
+      "https://www.tn.gov.in/deptst"
+    ],
+    "Food_Civil_Supplies": [
+      "https://www.tnpds.gov.in",
+      "https://www.tncsc.tn.gov.in"
+    ],
+    "eGovernance": [
+      "https://www.tnesevai.tn.gov.in",
+      "https://eservices.tn.gov.in"
+    ]
+  },
+  "Telangana": {
+    "General": [
+      "https://www.telangana.gov.in",
+      "https://www.telangana.gov.in/government"
+    ],
+    "Schemes": [
+      "https://www.telangana.gov.in/schemes",
+      "https://tg.meeseva.telangana.gov.in"
+    ],
+    "Agriculture": [
+      "https://agri.telangana.gov.in",
+      "https://rythubandhu.telangana.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.telangana.gov.in",
+      "https://www.arogyasri.telangana.gov.in"
+    ],
+    "Education": [
+      "https://schooledu.telangana.gov.in",
+      "https://telanganaopenschool.org"
+    ],
+    "Employment": [
+      "https://employment.telangana.gov.in",
+      "https://labour.telangana.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://dharani.telangana.gov.in",
+      "https://ccla.telangana.gov.in"
+    ],
+    "Transport": [
+      "https://transport.telangana.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wdcw.tg.nic.in",
+      "https://wehub.telangana.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://scstw.telangana.gov.in",
+      "https://tribalwelfare.telangana.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://epds.telangana.gov.in",
+      "https://civilsupplies.telangana.gov.in"
+    ],
+    "eGovernance": [
+      "https://tg.meeseva.telangana.gov.in",
+      "https://ts.meeseva.telangana.gov.in"
+    ]
+  },
+  "Tripura": {
+    "General": [
+      "https://tripura.gov.in",
+      "https://tripura.nic.in"
+    ],
+    "Schemes": [
+      "https://tripura.gov.in/page/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agri.tripura.gov.in",
+      "https://horticulture.tripura.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.tripura.gov.in",
+      "https://tripuranrhm.gov.in"
+    ],
+    "Education": [
+      "https://education.tripura.gov.in",
+      "https://schooleducation.tripura.gov.in"
+    ],
+    "Employment": [
+      "https://employment.tripura.gov.in",
+      "https://labour.tripura.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://landrecords.tripura.gov.in",
+      "https://revenue.tripura.gov.in"
+    ],
+    "Transport": [
+      "https://transport.tripura.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://socialwelfare.tripura.gov.in",
+      "https://icds.tripura.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.tripura.gov.in",
+      "https://tripura.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcs.tripura.gov.in",
+      "https://epds.tripura.gov.in"
+    ],
+    "eGovernance": [
+      "https://edistrict.tripura.gov.in",
+      "https://tripura.gov.in"
+    ]
+  },
+  "Uttar_Pradesh": {
+    "General": [
+      "https://up.gov.in",
+      "https://up.nic.in"
+    ],
+    "Schemes": [
+      "https://up.gov.in/en/page/schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://upagriculture.com",
+      "https://agriculture.up.gov.in"
+    ],
+    "Healthcare": [
+      "https://uphealth.up.nic.in",
+      "https://dgmhup.gov.in"
+    ],
+    "Education": [
+      "https://basiceducation.up.gov.in",
+      "https://seceducation.up.gov.in"
+    ],
+    "Employment": [
+      "https://sewayojan.up.nic.in",
+      "https://uplabour.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://upbhulekh.gov.in",
+      "https://bor.up.nic.in"
+    ],
+    "Transport": [
+      "https://transport.up.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://mahilakalyan.up.nic.in",
+      "https://balvikasup.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.up.gov.in",
+      "https://divyangjanup.upsdc.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcs.up.gov.in",
+      "https://nfsa.up.gov.in"
+    ],
+    "eGovernance": [
+      "https://esathi.up.gov.in",
+      "https://edistrict.up.gov.in"
+    ]
+  },
+  "Uttarakhand": {
+    "General": [
+      "https://uk.gov.in",
+      "https://uttarakhand.nic.in"
+    ],
+    "Schemes": [
+      "https://uk.gov.in/pages/display/140-schemes",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://agriculture.uk.gov.in",
+      "https://horticulture.uk.gov.in"
+    ],
+    "Healthcare": [
+      "https://health.uk.gov.in",
+      "https://nhm.uk.gov.in"
+    ],
+    "Education": [
+      "https://education.uk.gov.in",
+      "https://schooleducation.uk.gov.in"
+    ],
+    "Employment": [
+      "https://rojgar.uk.gov.in",
+      "https://labour.uk.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://bhulekh.uk.gov.in",
+      "https://revenue.uk.gov.in"
+    ],
+    "Transport": [
+      "https://transport.uk.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wecd.uk.gov.in",
+      "https://icds.uk.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://socialwelfare.uk.gov.in",
+      "https://ssp.uk.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://fcs.uk.gov.in",
+      "https://fcs.uk.gov.in/pages/display/27-ration-card"
+    ],
+    "eGovernance": [
+      "https://eservices.uk.gov.in",
+      "https://edistrict.uk.gov.in"
+    ]
+  },
+  "West_Bengal": {
+    "General": [
+      "https://wb.gov.in",
+      "https://wb.nic.in"
+    ],
+    "Schemes": [
+      "https://wb.gov.in/schemes.aspx",
+      "https://www.myscheme.gov.in"
+    ],
+    "Agriculture": [
+      "https://wbagriculture.gov.in",
+      "https://matirkatha.gov.in"
+    ],
+    "Healthcare": [
+      "https://www.wbhealth.gov.in",
+      "https://swasthyasathi.gov.in"
+    ],
+    "Education": [
+      "https://wbsed.gov.in",
+      "https://banglarshiksha.gov.in"
+    ],
+    "Employment": [
+      "https://employmentbankwb.gov.in",
+      "https://labour.gov.in"
+    ],
+    "Revenue_Land": [
+      "https://banglarbhumi.gov.in",
+      "https://landreforms.wb.gov.in"
+    ],
+    "Transport": [
+      "https://transport.wb.gov.in",
+      "https://parivahan.gov.in"
+    ],
+    "Women_Child": [
+      "https://wbcdwdsw.gov.in",
+      "https://icds.wb.gov.in"
+    ],
+    "Social_Welfare": [
+      "https://wbcdwdsw.gov.in",
+      "https://socialjustice.wb.gov.in"
+    ],
+    "Food_Civil_Supplies": [
+      "https://food.wb.gov.in",
+      "https://wbpds.gov.in"
+    ],
+    "eGovernance": [
+      "https://edistrict.wb.gov.in",
+      "https://banglarbhumi.gov.in"
+    ]
+  },
+  "Union_Territories": {
+    "Andaman_and_Nicobar_Islands": {
+      "General": [
+        "https://www.andaman.gov.in",
+        "https://andaman.nic.in"
+      ],
+      "Schemes": [
+        "https://www.andaman.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://ahvs.andaman.gov.in",
+        "https://agri.and.nic.in"
+      ],
+      "Healthcare": [
+        "https://health.andaman.gov.in",
+        "https://andaman.nic.in"
+      ],
+      "Education": [
+        "https://education.andaman.gov.in",
+        "https://andaman.nic.in"
+      ],
+      "Employment": [
+        "https://labour.andaman.gov.in",
+        "https://employment.andaman.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://andaman.gov.in",
+        "https://dlrs.andaman.gov.in"
+      ],
+      "Transport": [
+        "https://transport.andaman.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://socialwelfare.andaman.gov.in",
+        "https://andaman.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.andaman.gov.in",
+        "https://andaman.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://civilsupplies.andaman.gov.in",
+        "https://epds.andaman.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.andaman.gov.in",
+        "https://www.andaman.gov.in"
+      ]
+    },
+    "Chandigarh": {
+      "General": [
+        "https://chandigarh.gov.in",
+        "https://chandigarh.nic.in"
+      ],
+      "Schemes": [
+        "https://chandigarh.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://chandigarh.gov.in/department-agriculture",
+        "https://chandigarh.nic.in"
+      ],
+      "Healthcare": [
+        "https://health.chd.gov.in",
+        "https://gmch.gov.in"
+      ],
+      "Education": [
+        "https://chdeducation.gov.in",
+        "https://schools.chd.gov.in"
+      ],
+      "Employment": [
+        "https://labour.chd.gov.in",
+        "https://employment.chd.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.chd.gov.in",
+        "https://estateoffice.gov.in"
+      ],
+      "Transport": [
+        "https://chdtransport.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://socialwelfare.chd.gov.in",
+        "https://chandigarh.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.chd.gov.in",
+        "https://chandigarh.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://foodsupplies.chd.gov.in",
+        "https://epds.chd.gov.in"
+      ],
+      "eGovernance": [
+        "https://sampark.chd.nic.in",
+        "https://edistrict.chd.gov.in"
+      ]
+    },
+    "Dadra_and_Nagar_Haveli_and_Daman_and_Diu": {
+      "General": [
+        "https://ddd.gov.in",
+        "https://daman.nic.in"
+      ],
+      "Schemes": [
+        "https://ddd.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://agri.ddd.gov.in",
+        "https://ddd.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.ddd.gov.in",
+        "https://vbch.ddd.gov.in"
+      ],
+      "Education": [
+        "https://education.ddd.gov.in",
+        "https://ddd.gov.in"
+      ],
+      "Employment": [
+        "https://labour.ddd.gov.in",
+        "https://employment.ddd.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.ddd.gov.in",
+        "https://landrecords.ddd.gov.in"
+      ],
+      "Transport": [
+        "https://transport.ddd.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://socialwelfare.ddd.gov.in",
+        "https://wcd.ddd.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.ddd.gov.in",
+        "https://ddd.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://civilsupplies.ddd.gov.in",
+        "https://epds.ddd.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.ddd.gov.in",
+        "https://eservices.ddd.gov.in"
+      ]
+    },
+    "Delhi_NCT": {
+      "General": [
+        "https://delhi.gov.in",
+        "https://delhi.nic.in"
+      ],
+      "Schemes": [
+        "https://delhi.gov.in/schemes",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://development.delhi.gov.in",
+        "https://delhi.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.delhi.gov.in",
+        "https://mohalla.clinic.delhi.gov.in"
+      ],
+      "Education": [
+        "https://edudel.nic.in",
+        "https://education.delhi.gov.in"
+      ],
+      "Employment": [
+        "https://jobs.delhi.gov.in",
+        "https://labour.delhi.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.delhi.gov.in",
+        "https://dlrc.delhi.gov.in"
+      ],
+      "Transport": [
+        "https://transport.delhi.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://wcd.delhi.gov.in",
+        "https://missionshakti.delhi.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.delhi.gov.in",
+        "https://esocialwelfare.delhi.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://nfs.delhigovt.nic.in",
+        "https://fcsca.delhi.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.delhigovt.nic.in",
+        "https://delhi.gov.in"
+      ]
+    },
+    "Jammu_and_Kashmir": {
+      "General": [
+        "https://jk.gov.in",
+        "https://jammukashmir.nic.in"
+      ],
+      "Schemes": [
+        "https://jk.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://agri.jk.gov.in",
+        "https://horticulture.jk.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.jk.gov.in",
+        "https://nhmjk.gov.in"
+      ],
+      "Education": [
+        "https://schooleducation.jk.gov.in",
+        "https://jkeducation.gov.in"
+      ],
+      "Employment": [
+        "https://employment.jk.gov.in",
+        "https://labour.jk.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://landrecords.jk.gov.in",
+        "https://revenue.jk.gov.in"
+      ],
+      "Transport": [
+        "https://transport.jk.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://jkicds.com",
+        "https://socialwelfare.jk.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.jk.gov.in",
+        "https://jk.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://fcsca.jk.gov.in",
+        "https://epds.jk.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.jk.gov.in",
+        "https://jk.gov.in"
+      ]
+    },
+    "Ladakh": {
+      "General": [
+        "https://ladakh.gov.in",
+        "https://ladakh.nic.in"
+      ],
+      "Schemes": [
+        "https://ladakh.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://agri.ladakh.gov.in",
+        "https://horticulture.ladakh.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.ladakh.gov.in",
+        "https://nhm.ladakh.gov.in"
+      ],
+      "Education": [
+        "https://education.ladakh.gov.in",
+        "https://schooleducation.ladakh.gov.in"
+      ],
+      "Employment": [
+        "https://employment.ladakh.gov.in",
+        "https://labour.ladakh.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.ladakh.gov.in",
+        "https://landrecords.ladakh.gov.in"
+      ],
+      "Transport": [
+        "https://transport.ladakh.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://socialwelfare.ladakh.gov.in",
+        "https://icds.ladakh.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.ladakh.gov.in",
+        "https://ladakh.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://fcsca.ladakh.gov.in",
+        "https://epds.ladakh.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.ladakh.gov.in",
+        "https://ladakh.gov.in"
+      ]
+    },
+    "Lakshadweep": {
+      "General": [
+        "https://lakshadweep.gov.in",
+        "https://lakshadweep.nic.in"
+      ],
+      "Schemes": [
+        "https://lakshadweep.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://agriculture.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "Education": [
+        "https://education.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "Employment": [
+        "https://labour.lakshadweep.gov.in",
+        "https://employment.lakshadweep.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "Transport": [
+        "https://transport.lakshadweep.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://socialwelfare.lakshadweep.gov.in",
+        "https://icds.lakshadweep.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://food.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.lakshadweep.gov.in",
+        "https://lakshadweep.gov.in"
+      ]
+    },
+    "Puducherry": {
+      "General": [
+        "https://py.gov.in",
+        "https://puducherry.nic.in"
+      ],
+      "Schemes": [
+        "https://py.gov.in",
+        "https://www.myscheme.gov.in"
+      ],
+      "Agriculture": [
+        "https://agri.py.gov.in",
+        "https://horticulture.py.gov.in"
+      ],
+      "Healthcare": [
+        "https://health.py.gov.in",
+        "https://nrhm.puducherry.gov.in"
+      ],
+      "Education": [
+        "https://schooledn.py.gov.in",
+        "https://hed.py.gov.in"
+      ],
+      "Employment": [
+        "https://labour.py.gov.in",
+        "https://employment.py.gov.in"
+      ],
+      "Revenue_Land": [
+        "https://revenue.py.gov.in",
+        "https://landrecords.py.gov.in"
+      ],
+      "Transport": [
+        "https://transport.py.gov.in",
+        "https://parivahan.gov.in"
+      ],
+      "Women_Child": [
+        "https://wcd.py.gov.in",
+        "https://socialwelfare.py.gov.in"
+      ],
+      "Social_Welfare": [
+        "https://socialwelfare.py.gov.in",
+        "https://py.gov.in"
+      ],
+      "Food_Civil_Supplies": [
+        "https://fcs.py.gov.in",
+        "https://epds.py.gov.in"
+      ],
+      "eGovernance": [
+        "https://edistrict.py.gov.in",
+        "https://py.gov.in"
+      ]
+    }
+  }
+}

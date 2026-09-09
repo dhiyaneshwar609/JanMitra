@@ -1,0 +1,49 @@
+{
+    "General": [
+        "https://www.india.gov.in",
+        "https://services.india.gov.in",
+        "https://www.digitalindia.gov.in",
+        "https://www.nic.in",
+        "https://www.meity.gov.in"
+    ],
+    "Government_Schemes": [
+        "https://www.myscheme.gov.in",
+        "https://www.pmkisan.gov.in",
+        "https://pmaymis.gov.in"
+    ],
+    "Agriculture": [
+        "https://agriwelfare.gov.in",
+        "https://icar.org.in",
+        "https://pmfby.gov.in"
+    ],
+    "Healthcare": [
+        "https://www.mohfw.gov.in",
+        "https://abdm.gov.in",
+        "https://nhm.gov.in"
+    ],
+    "Education": [
+        "https://www.education.gov.in",
+        "https://www.swayam.gov.in",
+        "https://scholarships.gov.in"
+    ],
+    "Employment": [
+        "https://labour.gov.in",
+        "https://www.ncs.gov.in",
+        "https://apprenticeshipindia.gov.in"
+    ],
+    "Finance": [
+        "https://www.rbi.org.in",
+        "https://www.npci.org.in",
+        "https://www.incometax.gov.in",
+        "https://www.gst.gov.in"
+    ],
+    "Identity": [
+        "https://uidai.gov.in",
+        "https://www.passportindia.gov.in",
+        "https://voters.eci.gov.in",
+        "https://www.digilocker.gov.in"
+    ],
+    "Transport": [
+        "https://parivahan.gov.in"
+    ]
+}

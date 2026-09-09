@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated embeddings and vector indexes
+*.npy
+*.faiss
+*.pkl
+
+# Python test/cache
+.pytest_cache/
+.coverage
+
+# Scraping temporary/state files
+checkpoint.json
+crawl_checkpoint.json
+crawler_state.json
+failed_urls.json
+
+# Large scraped datasets
+scraped_data.json
+app/data/raw/scraped_data.json
+
+# Scraped PDF dataset
+datasetpdf/
+
+# Voice/model archives
+voice.zip
+vosk-model-small-en-in-0.4.zip
+# Unrelated image
+WhatsApp Image 2026-08-09 at 9.23.40 AM.jpeg
+# Downloaded voice models
+app/voice/models/
